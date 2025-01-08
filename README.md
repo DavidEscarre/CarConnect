@@ -23,21 +23,20 @@
 
 ## 🛠️ Herramientas y Tecnologías  
 
-- **Lenguajes:**  
-  - Java  
-  - JavaScript  
-  - HTML  
+### **Lenguajes de Programación**  
+- ![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png) **Java**  
+- ![JavaScript](https://img.icons8.com/color/30/000000/javascript--v1.png) **JavaScript**  
+- ![HTML](https://img.icons8.com/color/30/000000/html-5--v1.png) **HTML**  
 
-- **Entorno de Desarrollo:**  
-  - NetBeans  
+### **Entorno de Desarrollo**  
+- ![NetBeans](https://img.icons8.com/color/30/apache-netbeans.png) **NetBeans**  
 
-- **Bases de Datos:**  
-  - MySQL  
-  - MongoDB  
+### **Bases de Datos**  
+- ![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png) **MySQL**  
+- ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png) **MongoDB**  
 
-- **Control de Versiones:**  
-  - Git  
-
+### **Control de Versiones**  
+  - ![GitLab](https://img.icons8.com/color/30/gitlab.png) **GitLab**
 ---
 
 ## 👥 Equipo de Desarrollo  
