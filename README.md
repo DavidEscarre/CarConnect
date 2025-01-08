@@ -7,10 +7,10 @@
 ## 🔗 Recursos del Proyecto  
 
 - **📄 Memoria**  
-  [Consulta el documento](#) para conocer el análisis, desarrollo y detalles técnicos de CarConnect.  
+  [Consulta el documento](https://docs.google.com/document/d/1rDW2JKC5IKOYyLZL2HBUOGQDDR4lrDda6XauRIjkXtY/edit?usp=sharing) para conocer el análisis, desarrollo y detalles técnicos de CarConnect.  
 
 - **🎥 Presentación Visual**  
-  [Explora la presentación](#) con los aspectos destacados del sistema.  
+  [Explora la presentación](https://www.canva.com/design/DAGbjsGQslY/jGjDVa2nuaIbZ6LJuUIyjg/view?utm_content=DAGbjsGQslY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f8fb5bdbc) con los aspectos destacados del sistema.  
 
 ---
 
@@ -44,7 +44,7 @@
 
 Este proyecto fue desarrollado en colaboración con:  
 - [Yoel López](#)  
-- [David Escarrer](#)  
+- [Carlos Mendoza](#)  
 - [Antonio Oliva](#)  
 
 ---
@@ -52,9 +52,10 @@ Este proyecto fue desarrollado en colaboración con:
 ## 📬 Contacto  
 
 Si deseas más información o colaborar en el proyecto, puedes contactarnos:  
+- **Pagina Web:**  
+  [Pagina web](https://sites.google.com/alumnat.copernic.cat/davidescarregonzalez/inici?authuser=0)  
 - **Correo Electrónico:**  
-  [cmendoza@alumnat.copernic.cat](mailto:cmendoza@alumnat.copernic.cat)  
-
+  [descarre@alumnat.copernic.cat](mailto:descarre@alumnat.copernic.cat)  
 - **Perfil de LinkedIn:**  
-  [Carlos Mendoza Jiménez](https://www.linkedin.com/in/carlos-mendoza-jimenez-8831212b3/)  
+  [David Escarre Gonzalez](www.linkedin.com/in/davidego)  
 
